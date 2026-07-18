@@ -8,7 +8,7 @@ Recommended repository name: `prize-stock-alert`
 
 ## Domain candidates
 
-First candidate: `prizealert.jp`
+Confirmed domain: `prizealert.jp`
 
 Other candidates:
 
