@@ -8,11 +8,11 @@ Recommended repository name: `prize-stock-alert`
 
 ## Domain candidates
 
-Confirmed domain: `prizealert.jp`
+Confirmed domain: `https://syunnjack.github.io/prize-stock-alert/`
 
 Other candidates:
 
-- `prizealert.jp`
+- `https://syunnjack.github.io/prize-stock-alert/`
 - `prizestock.jp`
 - `charastock.jp`
 - `getprize.jp`
