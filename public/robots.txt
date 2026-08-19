@@ -1,4 +1,2 @@
 User-agent: *
-Allow: /
-
-Sitemap: https://prizealert.jp/sitemap.xml
+Disallow: /
